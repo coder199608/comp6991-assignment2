@@ -1,7 +1,7 @@
 <!-- GitHub banner / 微信二维码区域 -->
 <p align="center">
-  <img src="./images/avatar.jpg" width="120" alt="avatar">
-  <img src="./images/wechat_qr.png" width="120" alt="WeChat QR" title="扫码加我微信">
+  <img src="https://github.com/coder199608/pictures/blob/main/images/avatar.jpg" width="120" alt="avatar">
+  <img src="https://github.com/coder199608/pictures/blob/main/images/wechat_qr.png" width="120" alt="WeChat QR" title="扫码加我微信">
 </p>
 
 <h1 align="center">🔥 6年全栈工程师 | 留学生编程导师 | 800+无差评</h1>
